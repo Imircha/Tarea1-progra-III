@@ -1,0 +1,14 @@
+C:\Users\imirc\source\repos\mayorEdad\mayorEdad\obj\Debug\net6.0\mayorEdad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imirc\source\repos\mayorEdad\mayorEdad\obj\Debug\net6.0\mayorEdad.AssemblyInfoInputs.cache
+C:\Users\imirc\source\repos\mayorEdad\mayorEdad\obj\Debug\net6.0\mayorEdad.AssemblyInfo.cs
+C:\Users\imirc\source\repos\mayorEdad\mayorEdad\obj\Debug\net6.0\mayorEdad.csproj.CoreCompileInputs.cache
+C:\Users\imirc\source\repos\mayorEdad\mayorEdad\bin\Debug\net6.0\mayorEdad.exe
+C:\Users\imirc\source\repos\mayorEdad\mayorEdad\bin\Debug\net6.0\mayorEdad.deps.json
+C:\Users\imirc\source\repos\mayorEdad\mayorEdad\bin\Debug\net6.0\mayorEdad.runtimeconfig.json
+C:\Users\imirc\source\repos\mayorEdad\mayorEdad\bin\Debug\net6.0\mayorEdad.dll
+C:\Users\imirc\source\repos\mayorEdad\mayorEdad\bin\Debug\net6.0\mayorEdad.pdb
+C:\Users\imirc\source\repos\mayorEdad\mayorEdad\obj\Debug\net6.0\mayorEdad.dll
+C:\Users\imirc\source\repos\mayorEdad\mayorEdad\obj\Debug\net6.0\refint\mayorEdad.dll
+C:\Users\imirc\source\repos\mayorEdad\mayorEdad\obj\Debug\net6.0\mayorEdad.pdb
+C:\Users\imirc\source\repos\mayorEdad\mayorEdad\obj\Debug\net6.0\mayorEdad.genruntimeconfig.cache
+C:\Users\imirc\source\repos\mayorEdad\mayorEdad\obj\Debug\net6.0\ref\mayorEdad.dll
